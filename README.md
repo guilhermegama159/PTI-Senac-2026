@@ -273,18 +273,20 @@ O dashboard apresentará:
 
 ```text
 Projeto-Titanic
-│
-├── dados
-│   ├── titanic.csv
-│   └── titanic.db
-│
-├── notebooks
+PTI-Senado-2026/
+├── dados/
+│   └── titanic.csv
+├── notebooks/
 │   └── analise.ipynb
-│
-├── dashboard
-│
-├── imagens
-│
+├── src/
+│   ├── tratar_dados.py
+│   ├── salvar_sqlite.py
+│   ├── analise.py
+│   └── graficos.py
+├── dashboard/
+│   └── app.py
+├── imagens/
+├── requirements.txt
 └── README.md
 ```
 ---
