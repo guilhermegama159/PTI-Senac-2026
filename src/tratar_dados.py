@@ -1,4 +1,3 @@
-# Arquivo responsável pelo tratamento dos dados do projeto Titanic
 """
 Script responsável pelo tratamento  dos dados do arquivo titanic.csv
 
@@ -24,8 +23,8 @@ import pandas as pd
 
 DEBUG = False
 
-df: object = pd.read_csv(r'PTI-Senac-2026\dados\titanic.csv') #df == dataframe
-df_tratado: object = df.copy() #Cria uma cópia do df
+df: pd.DataFrame = pd.read_csv(r'PTI-Senac-2026\dados\titanic.csv') #df == dataframe
+df_tratado: pd.DataFrame = df.copy() #Cria uma cópia do df
 
 
 #Deleta colunas
@@ -47,7 +46,7 @@ locais_de_embarque: dict = {'C': 'Cherbourg',
 sexo: dict = {'male': 'Homem',
               'female': 'Mulher'}
 
-classe_passageiro = {1: 'Primeira',
+classe_passageiro: dict = {1: 'Primeira',
                      2: 'Segunda',
                      3: 'Terceira'}
 
