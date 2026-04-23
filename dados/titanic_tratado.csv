@@ -1,0 +1,419 @@
+ID,Sobreviveu,Classe,Nome,Sexo,Idade,Ticket,Tarifa,Cabine,Local_Embarque
+892,0,Terceira,"Kelly, Mr. James",Homem,34,330911,7.8292,Desconhecido,Queenstown
+893,1,Terceira,"Wilkes, Mrs. James (Ellen Needs)",Mulher,47,363272,7.0,Desconhecido,Southampton
+894,0,Segunda,"Myles, Mr. Thomas Francis",Homem,62,240276,9.6875,Desconhecido,Queenstown
+895,0,Terceira,"Wirz, Mr. Albert",Homem,27,315154,8.6625,Desconhecido,Southampton
+896,1,Terceira,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",Mulher,22,3101298,12.2875,Desconhecido,Southampton
+897,0,Terceira,"Svensson, Mr. Johan Cervin",Homem,14,7538,9.225,Desconhecido,Southampton
+898,1,Terceira,"Connolly, Miss. Kate",Mulher,30,330972,7.6292,Desconhecido,Queenstown
+899,0,Segunda,"Caldwell, Mr. Albert Francis",Homem,26,248738,29.0,Desconhecido,Southampton
+900,1,Terceira,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",Mulher,18,2657,7.2292,Desconhecido,Cherbourg
+901,0,Terceira,"Davies, Mr. John Samuel",Homem,21,A/4 48871,24.15,Desconhecido,Southampton
+902,0,Terceira,"Ilieff, Mr. Ylio",Homem,27,349220,7.8958,Desconhecido,Southampton
+903,0,Primeira,"Jones, Mr. Charles Cresson",Homem,46,694,26.0,Desconhecido,Southampton
+904,1,Primeira,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",Mulher,23,21228,82.2667,B45,Southampton
+905,0,Segunda,"Howard, Mr. Benjamin",Homem,63,24065,26.0,Desconhecido,Southampton
+906,1,Primeira,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",Mulher,47,W.E.P. 5734,61.175,E31,Southampton
+907,1,Segunda,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",Mulher,24,SC/PARIS 2167,27.7208,Desconhecido,Cherbourg
+908,0,Segunda,"Keane, Mr. Daniel",Homem,35,233734,12.35,Desconhecido,Queenstown
+909,0,Terceira,"Assaf, Mr. Gerios",Homem,21,2692,7.225,Desconhecido,Cherbourg
+910,1,Terceira,"Ilmakangas, Miss. Ida Livija",Mulher,27,STON/O2. 3101270,7.925,Desconhecido,Southampton
+911,1,Terceira,"Assaf Khalil, Mrs. Mariana (Miriam)",Mulher,45,2696,7.225,Desconhecido,Cherbourg
+912,0,Primeira,"Rothschild, Mr. Martin",Homem,55,PC 17603,59.4,Desconhecido,Cherbourg
+913,0,Terceira,"Olsen, Master. Artur Karl",Homem,9,C 17368,3.1708,Desconhecido,Southampton
+914,1,Primeira,"Flegenheim, Mrs. Alfred (Antoinette)",Mulher,27,PC 17598,31.6833,Desconhecido,Southampton
+915,0,Primeira,"Williams, Mr. Richard Norris II",Homem,21,PC 17597,61.3792,Desconhecido,Cherbourg
+916,1,Primeira,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",Mulher,48,PC 17608,262.375,B57 B59 B63 B66,Cherbourg
+917,0,Terceira,"Robins, Mr. Alexander A",Homem,50,A/5. 3337,14.5,Desconhecido,Southampton
+918,1,Primeira,"Ostby, Miss. Helene Ragnhild",Mulher,22,113509,61.9792,B36,Cherbourg
+919,0,Terceira,"Daher, Mr. Shedid",Homem,22,2698,7.225,Desconhecido,Cherbourg
+920,0,Primeira,"Brady, Mr. John Bertram",Homem,41,113054,30.5,A21,Southampton
+921,0,Terceira,"Samaan, Mr. Elias",Homem,27,2662,21.6792,Desconhecido,Cherbourg
+922,0,Segunda,"Louch, Mr. Charles Alexander",Homem,50,SC/AH 3085,26.0,Desconhecido,Southampton
+923,0,Segunda,"Jefferys, Mr. Clifford Thomas",Homem,24,C.A. 31029,31.5,Desconhecido,Southampton
+924,1,Terceira,"Dean, Mrs. Bertram (Eva Georgetta Light)",Mulher,33,C.A. 2315,20.575,Desconhecido,Southampton
+925,1,Terceira,"Johnston, Mrs. Andrew G (Elizabeth Lily Watson)",Mulher,27,W./C. 6607,23.45,Desconhecido,Southampton
+926,0,Primeira,"Mock, Mr. Philipp Edmund",Homem,30,13236,57.75,C78,Cherbourg
+927,0,Terceira,"Katavelas, Mr. Vassilios (Catavelas Vassilios)",Homem,18,2682,7.2292,Desconhecido,Cherbourg
+928,1,Terceira,"Roth, Miss. Sarah A",Mulher,27,342712,8.05,Desconhecido,Southampton
+929,1,Terceira,"Cacic, Miss. Manda",Mulher,21,315087,8.6625,Desconhecido,Southampton
+930,0,Terceira,"Sap, Mr. Julius",Homem,25,345768,9.5,Desconhecido,Southampton
+931,0,Terceira,"Hee, Mr. Ling",Homem,27,1601,56.4958,Desconhecido,Southampton
+932,0,Terceira,"Karun, Mr. Franz",Homem,39,349256,13.4167,Desconhecido,Cherbourg
+933,0,Primeira,"Franklin, Mr. Thomas Parham",Homem,27,113778,26.55,D34,Southampton
+934,0,Terceira,"Goldsmith, Mr. Nathan",Homem,41,SOTON/O.Q. 3101263,7.85,Desconhecido,Southampton
+935,1,Segunda,"Corbett, Mrs. Walter H (Irene Colvin)",Mulher,30,237249,13.0,Desconhecido,Southampton
+936,1,Primeira,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",Mulher,45,11753,52.5542,D19,Southampton
+937,0,Terceira,"Peltomaki, Mr. Nikolai Johannes",Homem,25,STON/O 2. 3101291,7.925,Desconhecido,Southampton
+938,0,Primeira,"Chevre, Mr. Paul Romaine",Homem,45,PC 17594,29.7,A9,Cherbourg
+939,0,Terceira,"Shaughnessy, Mr. Patrick",Homem,27,370374,7.75,Desconhecido,Queenstown
+940,1,Primeira,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",Mulher,60,11813,76.2917,D15,Cherbourg
+941,1,Terceira,"Coutts, Mrs. William (Winnie Minnie Treanor)",Mulher,36,C.A. 37671,15.9,Desconhecido,Southampton
+942,0,Primeira,"Smith, Mr. Lucien Philip",Homem,24,13695,60.0,C31,Southampton
+943,0,Segunda,"Pulbaum, Mr. Franz",Homem,27,SC/PARIS 2168,15.0333,Desconhecido,Cherbourg
+944,1,Segunda,"Hocking, Miss. Ellen Nellie",Mulher,20,29105,23.0,Desconhecido,Southampton
+945,1,Primeira,"Fortune, Miss. Ethel Flora",Mulher,28,19950,263.0,C23 C25 C27,Southampton
+946,0,Segunda,"Mangiavacchi, Mr. Serafino Emilio",Homem,27,SC/A.3 2861,15.5792,Desconhecido,Cherbourg
+947,0,Terceira,"Rice, Master. Albert",Homem,10,382652,29.125,Desconhecido,Queenstown
+948,0,Terceira,"Cor, Mr. Bartol",Homem,35,349230,7.8958,Desconhecido,Southampton
+949,0,Terceira,"Abelseth, Mr. Olaus Jorgensen",Homem,25,348122,7.65,F G63,Southampton
+950,0,Terceira,"Davison, Mr. Thomas Henry",Homem,27,386525,16.1,Desconhecido,Southampton
+951,1,Primeira,"Chaudanson, Miss. Victorine",Mulher,36,PC 17608,262.375,B61,Cherbourg
+952,0,Terceira,"Dika, Mr. Mirko",Homem,17,349232,7.8958,Desconhecido,Southampton
+953,0,Segunda,"McCrae, Mr. Arthur Gordon",Homem,32,237216,13.5,Desconhecido,Southampton
+954,0,Terceira,"Bjorklund, Mr. Ernst Herbert",Homem,18,347090,7.75,Desconhecido,Southampton
+955,1,Terceira,"Bradley, Miss. Bridget Delia",Mulher,22,334914,7.725,Desconhecido,Queenstown
+956,0,Primeira,"Ryerson, Master. John Borie",Homem,13,PC 17608,262.375,B57 B59 B63 B66,Cherbourg
+957,1,Segunda,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",Mulher,27,F.C.C. 13534,21.0,Desconhecido,Southampton
+958,1,Terceira,"Burns, Miss. Mary Delia",Mulher,18,330963,7.8792,Desconhecido,Queenstown
+959,0,Primeira,"Moore, Mr. Clarence Bloomfield",Homem,47,113796,42.4,Desconhecido,Southampton
+960,0,Primeira,"Tucker, Mr. Gilbert Milligan Jr",Homem,31,2543,28.5375,C53,Cherbourg
+961,1,Primeira,"Fortune, Mrs. Mark (Mary McDougald)",Mulher,60,19950,263.0,C23 C25 C27,Southampton
+962,1,Terceira,"Mulvihill, Miss. Bertha E",Mulher,24,382653,7.75,Desconhecido,Queenstown
+963,0,Terceira,"Minkoff, Mr. Lazar",Homem,21,349211,7.8958,Desconhecido,Southampton
+964,1,Terceira,"Nieminen, Miss. Manta Josefina",Mulher,29,3101297,7.925,Desconhecido,Southampton
+965,0,Primeira,"Ovies y Rodriguez, Mr. Servando",Homem,28,PC 17562,27.7208,D43,Cherbourg
+966,1,Primeira,"Geiger, Miss. Amalie",Mulher,35,113503,211.5,C130,Cherbourg
+967,0,Primeira,"Keeping, Mr. Edwin",Homem,32,113503,211.5,C132,Cherbourg
+968,0,Terceira,"Miles, Mr. Frank",Homem,27,359306,8.05,Desconhecido,Southampton
+969,1,Primeira,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",Mulher,55,11770,25.7,C101,Southampton
+970,0,Segunda,"Aldworth, Mr. Charles Augustus",Homem,30,248744,13.0,Desconhecido,Southampton
+971,1,Terceira,"Doyle, Miss. Elizabeth",Mulher,24,368702,7.75,Desconhecido,Queenstown
+972,0,Terceira,"Boulos, Master. Akar",Homem,6,2678,15.2458,Desconhecido,Cherbourg
+973,0,Primeira,"Straus, Mr. Isidor",Homem,67,PC 17483,221.7792,C55 C57,Southampton
+974,0,Primeira,"Case, Mr. Howard Brown",Homem,49,19924,26.0,Desconhecido,Southampton
+975,0,Terceira,"Demetri, Mr. Marinko",Homem,27,349238,7.8958,Desconhecido,Southampton
+976,0,Segunda,"Lamb, Mr. John Joseph",Homem,27,240261,10.7083,Desconhecido,Queenstown
+977,0,Terceira,"Khalil, Mr. Betros",Homem,27,2660,14.4542,Desconhecido,Cherbourg
+978,1,Terceira,"Barry, Miss. Julia",Mulher,27,330844,7.8792,Desconhecido,Queenstown
+979,1,Terceira,"Badman, Miss. Emily Louisa",Mulher,18,A/4 31416,8.05,Desconhecido,Southampton
+980,1,Terceira,"O'Donoghue, Ms. Bridget",Mulher,27,364856,7.75,Desconhecido,Queenstown
+981,0,Segunda,"Wells, Master. Ralph Lester",Homem,2,29103,23.0,Desconhecido,Southampton
+982,1,Terceira,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",Mulher,22,347072,13.9,Desconhecido,Southampton
+983,0,Terceira,"Pedersen, Mr. Olaf",Homem,27,345498,7.775,Desconhecido,Southampton
+984,1,Primeira,"Davidson, Mrs. Thornton (Orian Hays)",Mulher,27,F.C. 12750,52.0,B71,Southampton
+985,0,Terceira,"Guest, Mr. Robert",Homem,27,376563,8.05,Desconhecido,Southampton
+986,0,Primeira,"Birnbaum, Mr. Jakob",Homem,25,13905,26.0,Desconhecido,Cherbourg
+987,0,Terceira,"Tenglin, Mr. Gunnar Isidor",Homem,25,350033,7.7958,Desconhecido,Southampton
+988,1,Primeira,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",Mulher,76,19877,78.85,C46,Southampton
+989,0,Terceira,"Makinen, Mr. Kalle Edvard",Homem,29,STON/O 2. 3101268,7.925,Desconhecido,Southampton
+990,1,Terceira,"Braf, Miss. Elin Ester Maria",Mulher,20,347471,7.8542,Desconhecido,Southampton
+991,0,Terceira,"Nancarrow, Mr. William Henry",Homem,33,A./5. 3338,8.05,Desconhecido,Southampton
+992,1,Primeira,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",Mulher,43,11778,55.4417,C116,Cherbourg
+993,0,Segunda,"Weisz, Mr. Leopold",Homem,27,228414,26.0,Desconhecido,Southampton
+994,0,Terceira,"Foley, Mr. William",Homem,27,365235,7.75,Desconhecido,Queenstown
+995,0,Terceira,"Johansson Palmquist, Mr. Oskar Leander",Homem,26,347070,7.775,Desconhecido,Southampton
+996,1,Terceira,"Thomas, Mrs. Alexander (Thamine Thelma)",Mulher,16,2625,8.5167,Desconhecido,Cherbourg
+997,0,Terceira,"Holthen, Mr. Johan Martin",Homem,28,C 4001,22.525,Desconhecido,Southampton
+998,0,Terceira,"Buckley, Mr. Daniel",Homem,21,330920,7.8208,Desconhecido,Queenstown
+999,0,Terceira,"Ryan, Mr. Edward",Homem,27,383162,7.75,Desconhecido,Queenstown
+1000,0,Terceira,"Willer, Mr. Aaron (Abi Weller)",Homem,27,3410,8.7125,Desconhecido,Southampton
+1001,0,Segunda,"Swane, Mr. George",Homem,18,248734,13.0,F,Southampton
+1002,0,Segunda,"Stanton, Mr. Samuel Ward",Homem,41,237734,15.0458,Desconhecido,Cherbourg
+1003,1,Terceira,"Shine, Miss. Ellen Natalia",Mulher,27,330968,7.7792,Desconhecido,Queenstown
+1004,1,Primeira,"Evans, Miss. Edith Corse",Mulher,36,PC 17531,31.6792,A29,Cherbourg
+1005,1,Terceira,"Buckley, Miss. Katherine",Mulher,18,329944,7.2833,Desconhecido,Queenstown
+1006,1,Primeira,"Straus, Mrs. Isidor (Rosalie Ida Blun)",Mulher,63,PC 17483,221.7792,C55 C57,Southampton
+1007,0,Terceira,"Chronopoulos, Mr. Demetrios",Homem,18,2680,14.4542,Desconhecido,Cherbourg
+1008,0,Terceira,"Thomas, Mr. John",Homem,27,2681,6.4375,Desconhecido,Cherbourg
+1009,1,Terceira,"Sandstrom, Miss. Beatrice Irene",Mulher,1,PP 9549,16.7,G6,Southampton
+1010,0,Primeira,"Beattie, Mr. Thomson",Homem,36,13050,75.2417,C6,Cherbourg
+1011,1,Segunda,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",Mulher,29,SC/AH 29037,26.0,Desconhecido,Southampton
+1012,1,Segunda,"Watt, Miss. Bertha J",Mulher,12,C.A. 33595,15.75,Desconhecido,Southampton
+1013,0,Terceira,"Kiernan, Mr. John",Homem,27,367227,7.75,Desconhecido,Queenstown
+1014,1,Primeira,"Schabert, Mrs. Paul (Emma Mock)",Mulher,35,13236,57.75,C28,Cherbourg
+1015,0,Terceira,"Carver, Mr. Alfred John",Homem,28,392095,7.25,Desconhecido,Southampton
+1016,0,Terceira,"Kennedy, Mr. John",Homem,27,368783,7.75,Desconhecido,Queenstown
+1017,1,Terceira,"Cribb, Miss. Laura Alice",Mulher,17,371362,16.1,Desconhecido,Southampton
+1018,0,Terceira,"Brobeck, Mr. Karl Rudolf",Homem,22,350045,7.7958,Desconhecido,Southampton
+1019,1,Terceira,"McCoy, Miss. Alicia",Mulher,27,367226,23.25,Desconhecido,Queenstown
+1020,0,Segunda,"Bowenur, Mr. Solomon",Homem,42,211535,13.0,Desconhecido,Southampton
+1021,0,Terceira,"Petersen, Mr. Marius",Homem,24,342441,8.05,Desconhecido,Southampton
+1022,0,Terceira,"Spinner, Mr. Henry John",Homem,32,STON/OQ. 369943,8.05,Desconhecido,Southampton
+1023,0,Primeira,"Gracie, Col. Archibald IV",Homem,53,113780,28.5,C51,Cherbourg
+1024,1,Terceira,"Lefebre, Mrs. Frank (Frances)",Mulher,27,4133,25.4667,Desconhecido,Southampton
+1025,0,Terceira,"Thomas, Mr. Charles P",Homem,27,2621,6.4375,Desconhecido,Cherbourg
+1026,0,Terceira,"Dintcheff, Mr. Valtcho",Homem,43,349226,7.8958,Desconhecido,Southampton
+1027,0,Terceira,"Carlsson, Mr. Carl Robert",Homem,24,350409,7.8542,Desconhecido,Southampton
+1028,0,Terceira,"Zakarian, Mr. Mapriededer",Homem,26,2656,7.225,Desconhecido,Cherbourg
+1029,0,Segunda,"Schmidt, Mr. August",Homem,26,248659,13.0,Desconhecido,Southampton
+1030,1,Terceira,"Drapkin, Miss. Jennie",Mulher,23,SOTON/OQ 392083,8.05,Desconhecido,Southampton
+1031,0,Terceira,"Goodwin, Mr. Charles Frederick",Homem,40,CA 2144,46.9,Desconhecido,Southampton
+1032,1,Terceira,"Goodwin, Miss. Jessie Allis",Mulher,10,CA 2144,46.9,Desconhecido,Southampton
+1033,1,Primeira,"Daniels, Miss. Sarah",Mulher,33,113781,151.55,Desconhecido,Southampton
+1034,0,Primeira,"Ryerson, Mr. Arthur Larned",Homem,61,PC 17608,262.375,B57 B59 B63 B66,Cherbourg
+1035,0,Segunda,"Beauchamp, Mr. Henry James",Homem,28,244358,26.0,Desconhecido,Southampton
+1036,0,Primeira,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey)",Homem,42,17475,26.55,Desconhecido,Southampton
+1037,0,Terceira,"Vander Planke, Mr. Julius",Homem,31,345763,18.0,Desconhecido,Southampton
+1038,0,Primeira,"Hilliard, Mr. Herbert Henry",Homem,27,17463,51.8625,E46,Southampton
+1039,0,Terceira,"Davies, Mr. Evan",Homem,22,SC/A4 23568,8.05,Desconhecido,Southampton
+1040,0,Primeira,"Crafton, Mr. John Bertram",Homem,27,113791,26.55,Desconhecido,Southampton
+1041,0,Segunda,"Lahtinen, Rev. William",Homem,30,250651,26.0,Desconhecido,Southampton
+1042,1,Primeira,"Earnshaw, Mrs. Boulton (Olive Potter)",Mulher,23,11767,83.1583,C54,Cherbourg
+1043,0,Terceira,"Matinoff, Mr. Nicola",Homem,27,349255,7.8958,Desconhecido,Cherbourg
+1044,0,Terceira,"Storey, Mr. Thomas",Homem,60,3701,14.4542,Desconhecido,Southampton
+1045,1,Terceira,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",Mulher,36,350405,12.1833,Desconhecido,Southampton
+1046,0,Terceira,"Asplund, Master. Filip Oscar",Homem,13,347077,31.3875,Desconhecido,Southampton
+1047,0,Terceira,"Duquemin, Mr. Joseph",Homem,24,S.O./P.P. 752,7.55,Desconhecido,Southampton
+1048,1,Primeira,"Bird, Miss. Ellen",Mulher,29,PC 17483,221.7792,C97,Southampton
+1049,1,Terceira,"Lundin, Miss. Olga Elida",Mulher,23,347469,7.8542,Desconhecido,Southampton
+1050,0,Primeira,"Borebank, Mr. John James",Homem,42,110489,26.55,D22,Southampton
+1051,1,Terceira,"Peacock, Mrs. Benjamin (Edith Nile)",Mulher,26,SOTON/O.Q. 3101315,13.775,Desconhecido,Southampton
+1052,1,Terceira,"Smyth, Miss. Julia",Mulher,27,335432,7.7333,Desconhecido,Queenstown
+1053,0,Terceira,"Touma, Master. Georges Youssef",Homem,7,2650,15.2458,Desconhecido,Cherbourg
+1054,1,Segunda,"Wright, Miss. Marion",Mulher,26,220844,13.5,Desconhecido,Southampton
+1055,0,Terceira,"Pearce, Mr. Ernest",Homem,27,343271,7.0,Desconhecido,Southampton
+1056,0,Segunda,"Peruschitz, Rev. Joseph Maria",Homem,41,237393,13.0,Desconhecido,Southampton
+1057,1,Terceira,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",Mulher,26,315153,22.025,Desconhecido,Southampton
+1058,0,Primeira,"Brandeis, Mr. Emil",Homem,48,PC 17591,50.4958,B10,Cherbourg
+1059,0,Terceira,"Ford, Mr. Edward Watson",Homem,18,W./C. 6608,34.375,Desconhecido,Southampton
+1060,1,Primeira,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",Mulher,27,17770,27.7208,Desconhecido,Cherbourg
+1061,1,Terceira,"Hellstrom, Miss. Hilda Maria",Mulher,22,7548,8.9625,Desconhecido,Southampton
+1062,0,Terceira,"Lithman, Mr. Simon",Homem,27,S.O./P.P. 251,7.55,Desconhecido,Southampton
+1063,0,Terceira,"Zakarian, Mr. Ortin",Homem,27,2670,7.225,Desconhecido,Cherbourg
+1064,0,Terceira,"Dyker, Mr. Adolf Fredrik",Homem,23,347072,13.9,Desconhecido,Southampton
+1065,0,Terceira,"Torfa, Mr. Assad",Homem,27,2673,7.2292,Desconhecido,Cherbourg
+1066,0,Terceira,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",Homem,40,347077,31.3875,Desconhecido,Southampton
+1067,1,Segunda,"Brown, Miss. Edith Eileen",Mulher,15,29750,39.0,Desconhecido,Southampton
+1068,1,Segunda,"Sincock, Miss. Maude",Mulher,20,C.A. 33112,36.75,Desconhecido,Southampton
+1069,0,Primeira,"Stengel, Mr. Charles Emil Henry",Homem,54,11778,55.4417,C116,Cherbourg
+1070,1,Segunda,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",Mulher,36,230136,39.0,F4,Southampton
+1071,1,Primeira,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",Mulher,64,PC 17756,83.1583,E45,Cherbourg
+1072,0,Segunda,"McCrie, Mr. James Matthew",Homem,30,233478,13.0,Desconhecido,Southampton
+1073,0,Primeira,"Compton, Mr. Alexander Taylor Jr",Homem,37,PC 17756,83.1583,E52,Cherbourg
+1074,1,Primeira,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",Mulher,18,113773,53.1,D30,Southampton
+1075,0,Terceira,"Lane, Mr. Patrick",Homem,27,7935,7.75,Desconhecido,Queenstown
+1076,1,Primeira,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",Mulher,27,PC 17558,247.5208,B58 B60,Cherbourg
+1077,0,Segunda,"Maybery, Mr. Frank Hubert",Homem,40,239059,16.0,Desconhecido,Southampton
+1078,1,Segunda,"Phillips, Miss. Alice Frances Louisa",Mulher,21,S.O./P.P. 2,21.0,Desconhecido,Southampton
+1079,0,Terceira,"Davies, Mr. Joseph",Homem,17,A/4 48873,8.05,Desconhecido,Southampton
+1080,1,Terceira,"Sage, Miss. Ada",Mulher,27,CA. 2343,69.55,Desconhecido,Southampton
+1081,0,Segunda,"Veal, Mr. James",Homem,40,28221,13.0,Desconhecido,Southampton
+1082,0,Segunda,"Angle, Mr. William A",Homem,34,226875,26.0,Desconhecido,Southampton
+1083,0,Primeira,"Salomon, Mr. Abraham L",Homem,27,111163,26.0,Desconhecido,Southampton
+1084,0,Terceira,"van Billiard, Master. Walter John",Homem,11,A/5. 851,14.5,Desconhecido,Southampton
+1085,0,Segunda,"Lingane, Mr. John",Homem,61,235509,12.35,Desconhecido,Queenstown
+1086,0,Segunda,"Drew, Master. Marshall Brines",Homem,8,28220,32.5,Desconhecido,Southampton
+1087,0,Terceira,"Karlsson, Mr. Julius Konrad Eugen",Homem,33,347465,7.8542,Desconhecido,Southampton
+1088,0,Primeira,"Spedden, Master. Robert Douglas",Homem,6,16966,134.5,E34,Cherbourg
+1089,1,Terceira,"Nilsson, Miss. Berta Olivia",Mulher,18,347066,7.775,Desconhecido,Southampton
+1090,0,Segunda,"Baimbrigge, Mr. Charles Robert",Homem,23,C.A. 31030,10.5,Desconhecido,Southampton
+1091,1,Terceira,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",Mulher,27,65305,8.1125,Desconhecido,Southampton
+1092,1,Terceira,"Murphy, Miss. Nora",Mulher,27,36568,15.5,Desconhecido,Queenstown
+1093,0,Terceira,"Danbom, Master. Gilbert Sigvard Emanuel",Homem,0,347080,14.4,Desconhecido,Southampton
+1094,0,Primeira,"Astor, Col. John Jacob",Homem,47,PC 17757,227.525,C62 C64,Cherbourg
+1095,1,Segunda,"Quick, Miss. Winifred Vera",Mulher,8,26360,26.0,Desconhecido,Southampton
+1096,0,Segunda,"Andrew, Mr. Frank Thomas",Homem,25,C.A. 34050,10.5,Desconhecido,Southampton
+1097,0,Primeira,"Omont, Mr. Alfred Fernand",Homem,27,F.C. 12998,25.7417,Desconhecido,Cherbourg
+1098,1,Terceira,"McGowan, Miss. Katherine",Mulher,35,9232,7.75,Desconhecido,Queenstown
+1099,0,Segunda,"Collett, Mr. Sidney C Stuart",Homem,24,28034,10.5,Desconhecido,Southampton
+1100,1,Primeira,"Rosenbaum, Miss. Edith Louise",Mulher,33,PC 17613,27.7208,A11,Cherbourg
+1101,0,Terceira,"Delalic, Mr. Redjo",Homem,25,349250,7.8958,Desconhecido,Southampton
+1102,0,Terceira,"Andersen, Mr. Albert Karvin",Homem,32,C 4001,22.525,Desconhecido,Southampton
+1103,0,Terceira,"Finoli, Mr. Luigi",Homem,27,SOTON/O.Q. 3101308,7.05,Desconhecido,Southampton
+1104,0,Segunda,"Deacon, Mr. Percy William",Homem,17,S.O.C. 14879,73.5,Desconhecido,Southampton
+1105,1,Segunda,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",Mulher,60,24065,26.0,Desconhecido,Southampton
+1106,1,Terceira,"Andersson, Miss. Ida Augusta Margareta",Mulher,38,347091,7.775,Desconhecido,Southampton
+1107,0,Primeira,"Head, Mr. Christopher",Homem,42,113038,42.5,B11,Southampton
+1108,1,Terceira,"Mahon, Miss. Bridget Delia",Mulher,27,330924,7.8792,Desconhecido,Queenstown
+1109,0,Primeira,"Wick, Mr. George Dennick",Homem,57,36928,164.8667,Desconhecido,Southampton
+1110,1,Primeira,"Widener, Mrs. George Dunton (Eleanor Elkins)",Mulher,50,113503,211.5,C80,Cherbourg
+1111,0,Terceira,"Thomson, Mr. Alexander Morrison",Homem,27,32302,8.05,Desconhecido,Southampton
+1112,1,Segunda,"Duran y More, Miss. Florentina",Mulher,30,SC/PARIS 2148,13.8583,Desconhecido,Cherbourg
+1113,0,Terceira,"Reynolds, Mr. Harold J",Homem,21,342684,8.05,Desconhecido,Southampton
+1114,1,Segunda,"Cook, Mrs. (Selena Rogers)",Mulher,22,W./C. 14266,10.5,F33,Southampton
+1115,0,Terceira,"Karlsson, Mr. Einar Gervasius",Homem,21,350053,7.7958,Desconhecido,Southampton
+1116,1,Primeira,"Candee, Mrs. Edward (Helen Churchill Hungerford)",Mulher,53,PC 17606,27.4458,Desconhecido,Cherbourg
+1117,1,Terceira,"Moubarek, Mrs. George (Omine Amenia Alexander)",Mulher,27,2661,15.2458,Desconhecido,Cherbourg
+1118,0,Terceira,"Asplund, Mr. Johan Charles",Homem,23,350054,7.7958,Desconhecido,Southampton
+1119,1,Terceira,"McNeill, Miss. Bridget",Mulher,27,370368,7.75,Desconhecido,Queenstown
+1120,0,Terceira,"Everett, Mr. Thomas James",Homem,40,C.A. 6212,15.1,Desconhecido,Southampton
+1121,0,Segunda,"Hocking, Mr. Samuel James Metcalfe",Homem,36,242963,13.0,Desconhecido,Southampton
+1122,0,Segunda,"Sweet, Mr. George Frederick",Homem,14,220845,65.0,Desconhecido,Southampton
+1123,1,Primeira,"Willard, Miss. Constance",Mulher,21,113795,26.55,Desconhecido,Southampton
+1124,0,Terceira,"Wiklund, Mr. Karl Johan",Homem,21,3101266,6.4958,Desconhecido,Southampton
+1125,0,Terceira,"Linehan, Mr. Michael",Homem,27,330971,7.8792,Desconhecido,Queenstown
+1126,0,Primeira,"Cumings, Mr. John Bradley",Homem,39,PC 17599,71.2833,C85,Cherbourg
+1127,0,Terceira,"Vendel, Mr. Olof Edvin",Homem,20,350416,7.8542,Desconhecido,Southampton
+1128,0,Primeira,"Warren, Mr. Frank Manley",Homem,64,110813,75.25,D37,Cherbourg
+1129,0,Terceira,"Baccos, Mr. Raffull",Homem,20,2679,7.225,Desconhecido,Cherbourg
+1130,1,Segunda,"Hiltunen, Miss. Marta",Mulher,18,250650,13.0,Desconhecido,Southampton
+1131,1,Primeira,"Douglas, Mrs. Walter Donald (Mahala Dutton)",Mulher,48,PC 17761,106.425,C86,Cherbourg
+1132,1,Primeira,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",Mulher,55,112377,27.7208,Desconhecido,Cherbourg
+1133,1,Segunda,"Christy, Mrs. (Alice Frances)",Mulher,45,237789,30.0,Desconhecido,Southampton
+1134,0,Primeira,"Spedden, Mr. Frederic Oakley",Homem,45,16966,134.5,E34,Cherbourg
+1135,0,Terceira,"Hyman, Mr. Abraham",Homem,27,3470,7.8875,Desconhecido,Southampton
+1136,0,Terceira,"Johnston, Master. William Arthur Willie",Homem,27,W./C. 6607,23.45,Desconhecido,Southampton
+1137,0,Primeira,"Kenyon, Mr. Frederick R",Homem,41,17464,51.8625,D21,Southampton
+1138,1,Segunda,"Karnes, Mrs. J Frank (Claire Bennett)",Mulher,22,F.C.C. 13534,21.0,Desconhecido,Southampton
+1139,0,Segunda,"Drew, Mr. James Vivian",Homem,42,28220,32.5,Desconhecido,Southampton
+1140,1,Segunda,"Hold, Mrs. Stephen (Annie Margaret Hill)",Mulher,29,26707,26.0,Desconhecido,Southampton
+1141,1,Terceira,"Khalil, Mrs. Betros (Zahie Maria Elias)",Mulher,27,2660,14.4542,Desconhecido,Cherbourg
+1142,1,Segunda,"West, Miss. Barbara J",Mulher,0,C.A. 34651,27.75,Desconhecido,Southampton
+1143,0,Terceira,"Abrahamsson, Mr. Abraham August Johannes",Homem,20,SOTON/O2 3101284,7.925,Desconhecido,Southampton
+1144,0,Primeira,"Clark, Mr. Walter Miller",Homem,27,13508,136.7792,C89,Cherbourg
+1145,0,Terceira,"Salander, Mr. Karl Johan",Homem,24,7266,9.325,Desconhecido,Southampton
+1146,0,Terceira,"Wenzel, Mr. Linhart",Homem,32,345775,9.5,Desconhecido,Southampton
+1147,0,Terceira,"MacKay, Mr. George William",Homem,27,C.A. 42795,7.55,Desconhecido,Southampton
+1148,0,Terceira,"Mahon, Mr. John",Homem,27,AQ/4 3130,7.75,Desconhecido,Queenstown
+1149,0,Terceira,"Niklasson, Mr. Samuel",Homem,28,363611,8.05,Desconhecido,Southampton
+1150,1,Segunda,"Bentham, Miss. Lilian W",Mulher,19,28404,13.0,Desconhecido,Southampton
+1151,0,Terceira,"Midtsjo, Mr. Karl Albert",Homem,21,345501,7.775,Desconhecido,Southampton
+1152,0,Terceira,"de Messemaeker, Mr. Guillaume Joseph",Homem,36,345572,17.4,Desconhecido,Southampton
+1153,0,Terceira,"Nilsson, Mr. August Ferdinand",Homem,21,350410,7.8542,Desconhecido,Southampton
+1154,1,Segunda,"Wells, Mrs. Arthur Henry (Addie Dart Trevaskis)",Mulher,29,29103,23.0,Desconhecido,Southampton
+1155,1,Terceira,"Klasen, Miss. Gertrud Emilia",Mulher,1,350405,12.1833,Desconhecido,Southampton
+1156,0,Segunda,"Portaluppi, Mr. Emilio Ilario Giuseppe",Homem,30,C.A. 34644,12.7375,Desconhecido,Cherbourg
+1157,0,Terceira,"Lyntakoff, Mr. Stanko",Homem,27,349235,7.8958,Desconhecido,Southampton
+1158,0,Primeira,"Chisholm, Mr. Roderick Robert Crispin",Homem,27,112051,0.0,Desconhecido,Southampton
+1159,0,Terceira,"Warren, Mr. Charles William",Homem,27,C.A. 49867,7.55,Desconhecido,Southampton
+1160,1,Terceira,"Howard, Miss. May Elizabeth",Mulher,27,A. 2. 39186,8.05,Desconhecido,Southampton
+1161,0,Terceira,"Pokrnic, Mr. Mate",Homem,17,315095,8.6625,Desconhecido,Southampton
+1162,0,Primeira,"McCaffry, Mr. Thomas Francis",Homem,46,13050,75.2417,C6,Cherbourg
+1163,0,Terceira,"Fox, Mr. Patrick",Homem,27,368573,7.75,Desconhecido,Queenstown
+1164,1,Primeira,"Clark, Mrs. Walter Miller (Virginia McDowell)",Mulher,26,13508,136.7792,C89,Cherbourg
+1165,1,Terceira,"Lennon, Miss. Mary",Mulher,27,370371,15.5,Desconhecido,Queenstown
+1166,0,Terceira,"Saade, Mr. Jean Nassr",Homem,27,2676,7.225,Desconhecido,Cherbourg
+1167,1,Segunda,"Bryhl, Miss. Dagmar Jenny Ingeborg ",Mulher,20,236853,26.0,Desconhecido,Southampton
+1168,0,Segunda,"Parker, Mr. Clifford Richard",Homem,28,SC 14888,10.5,Desconhecido,Southampton
+1169,0,Segunda,"Faunthorpe, Mr. Harry",Homem,40,2926,26.0,Desconhecido,Southampton
+1170,0,Segunda,"Ware, Mr. John James",Homem,30,CA 31352,21.0,Desconhecido,Southampton
+1171,0,Segunda,"Oxenham, Mr. Percy Thomas",Homem,22,W./C. 14260,10.5,Desconhecido,Southampton
+1172,1,Terceira,"Oreskovic, Miss. Jelka",Mulher,23,315085,8.6625,Desconhecido,Southampton
+1173,0,Terceira,"Peacock, Master. Alfred Edward",Homem,0,SOTON/O.Q. 3101315,13.775,Desconhecido,Southampton
+1174,1,Terceira,"Fleming, Miss. Honora",Mulher,27,364859,7.75,Desconhecido,Queenstown
+1175,1,Terceira,"Touma, Miss. Maria Youssef",Mulher,9,2650,15.2458,Desconhecido,Cherbourg
+1176,1,Terceira,"Rosblom, Miss. Salli Helena",Mulher,2,370129,20.2125,Desconhecido,Southampton
+1177,0,Terceira,"Dennis, Mr. William",Homem,36,A/5 21175,7.25,Desconhecido,Southampton
+1178,0,Terceira,"Franklin, Mr. Charles (Charles Fardon)",Homem,27,SOTON/O.Q. 3101314,7.25,Desconhecido,Southampton
+1179,0,Primeira,"Snyder, Mr. John Pillsbury",Homem,24,21228,82.2667,B45,Southampton
+1180,0,Terceira,"Mardirosian, Mr. Sarkis",Homem,27,2655,7.2292,F E46,Cherbourg
+1181,0,Terceira,"Ford, Mr. Arthur",Homem,27,A/5 1478,8.05,Desconhecido,Southampton
+1182,0,Primeira,"Rheims, Mr. George Alexander Lucien",Homem,27,PC 17607,39.6,Desconhecido,Southampton
+1183,1,Terceira,"Daly, Miss. Margaret Marcella Maggie",Mulher,30,382650,6.95,Desconhecido,Queenstown
+1184,0,Terceira,"Nasr, Mr. Mustafa",Homem,27,2652,7.2292,Desconhecido,Cherbourg
+1185,0,Primeira,"Dodge, Dr. Washington",Homem,53,33638,81.8583,A34,Southampton
+1186,0,Terceira,"Wittevrongel, Mr. Camille",Homem,36,345771,9.5,Desconhecido,Southampton
+1187,0,Terceira,"Angheloff, Mr. Minko",Homem,26,349202,7.8958,Desconhecido,Southampton
+1188,1,Segunda,"Laroche, Miss. Louise",Mulher,1,SC/Paris 2123,41.5792,Desconhecido,Cherbourg
+1189,0,Terceira,"Samaan, Mr. Hanna",Homem,27,2662,21.6792,Desconhecido,Cherbourg
+1190,0,Primeira,"Loring, Mr. Joseph Holland",Homem,30,113801,45.5,Desconhecido,Southampton
+1191,0,Terceira,"Johansson, Mr. Nils",Homem,29,347467,7.8542,Desconhecido,Southampton
+1192,0,Terceira,"Olsson, Mr. Oscar Wilhelm",Homem,32,347079,7.775,Desconhecido,Southampton
+1193,0,Segunda,"Malachard, Mr. Noel",Homem,27,237735,15.0458,D,Cherbourg
+1194,0,Segunda,"Phillips, Mr. Escott Robert",Homem,43,S.O./P.P. 2,21.0,Desconhecido,Southampton
+1195,0,Terceira,"Pokrnic, Mr. Tome",Homem,24,315092,8.6625,Desconhecido,Southampton
+1196,1,Terceira,"McCarthy, Miss. Catherine Katie",Mulher,27,383123,7.75,Desconhecido,Queenstown
+1197,1,Primeira,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",Mulher,64,112901,26.55,B26,Southampton
+1198,0,Primeira,"Allison, Mr. Hudson Joshua Creighton",Homem,30,113781,151.55,C22 C26,Southampton
+1199,0,Terceira,"Aks, Master. Philip Frank",Homem,0,392091,9.35,Desconhecido,Southampton
+1200,0,Primeira,"Hays, Mr. Charles Melville",Homem,55,12749,93.5,B69,Southampton
+1201,1,Terceira,"Hansen, Mrs. Claus Peter (Jennie L Howard)",Mulher,45,350026,14.1083,Desconhecido,Southampton
+1202,0,Terceira,"Cacic, Mr. Jego Grga",Homem,18,315091,8.6625,Desconhecido,Southampton
+1203,0,Terceira,"Vartanian, Mr. David",Homem,22,2658,7.225,Desconhecido,Cherbourg
+1204,0,Terceira,"Sadowitz, Mr. Harry",Homem,27,LP 1588,7.575,Desconhecido,Southampton
+1205,1,Terceira,"Carr, Miss. Jeannie",Mulher,37,368364,7.75,Desconhecido,Queenstown
+1206,1,Primeira,"White, Mrs. John Stuart (Ella Holmes)",Mulher,55,PC 17760,135.6333,C32,Cherbourg
+1207,1,Terceira,"Hagardon, Miss. Kate",Mulher,17,AQ/3. 30631,7.7333,Desconhecido,Queenstown
+1208,0,Primeira,"Spencer, Mr. William Augustus",Homem,57,PC 17569,146.5208,B78,Cherbourg
+1209,0,Segunda,"Rogers, Mr. Reginald Harry",Homem,19,28004,10.5,Desconhecido,Southampton
+1210,0,Terceira,"Jonsson, Mr. Nils Hilding",Homem,27,350408,7.8542,Desconhecido,Southampton
+1211,0,Segunda,"Jefferys, Mr. Ernest Wilfred",Homem,22,C.A. 31029,31.5,Desconhecido,Southampton
+1212,0,Terceira,"Andersson, Mr. Johan Samuel",Homem,26,347075,7.775,Desconhecido,Southampton
+1213,0,Terceira,"Krekorian, Mr. Neshan",Homem,25,2654,7.2292,F E57,Cherbourg
+1214,0,Segunda,"Nesson, Mr. Israel",Homem,26,244368,13.0,F2,Southampton
+1215,0,Primeira,"Rowe, Mr. Alfred G",Homem,33,113790,26.55,Desconhecido,Southampton
+1216,1,Primeira,"Kreuchen, Miss. Emilie",Mulher,39,24160,211.3375,Desconhecido,Southampton
+1217,0,Terceira,"Assam, Mr. Ali",Homem,23,SOTON/O.Q. 3101309,7.05,Desconhecido,Southampton
+1218,1,Segunda,"Becker, Miss. Ruth Elizabeth",Mulher,12,230136,39.0,F4,Southampton
+1219,0,Primeira,"Rosenshine, Mr. George (Mr George Thorne)",Homem,46,PC 17585,79.2,Desconhecido,Cherbourg
+1220,0,Segunda,"Clarke, Mr. Charles Valentine",Homem,29,2003,26.0,Desconhecido,Southampton
+1221,0,Segunda,"Enander, Mr. Ingvar",Homem,21,236854,13.0,Desconhecido,Southampton
+1222,1,Segunda,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",Mulher,48,C.A. 33112,36.75,Desconhecido,Southampton
+1223,0,Primeira,"Dulles, Mr. William Crothers",Homem,39,PC 17580,29.7,A18,Cherbourg
+1224,0,Terceira,"Thomas, Mr. Tannous",Homem,27,2684,7.225,Desconhecido,Cherbourg
+1225,1,Terceira,"Nakid, Mrs. Said (Waika Mary Mowad)",Mulher,19,2653,15.7417,Desconhecido,Cherbourg
+1226,0,Terceira,"Cor, Mr. Ivan",Homem,27,349229,7.8958,Desconhecido,Southampton
+1227,0,Primeira,"Maguire, Mr. John Edward",Homem,30,110469,26.0,C106,Southampton
+1228,0,Segunda,"de Brito, Mr. Jose Joaquim",Homem,32,244360,13.0,Desconhecido,Southampton
+1229,0,Terceira,"Elias, Mr. Joseph",Homem,39,2675,7.2292,Desconhecido,Cherbourg
+1230,0,Segunda,"Denbury, Mr. Herbert",Homem,25,C.A. 31029,31.5,Desconhecido,Southampton
+1231,0,Terceira,"Betros, Master. Seman",Homem,27,2622,7.2292,Desconhecido,Cherbourg
+1232,0,Segunda,"Fillbrook, Mr. Joseph Charles",Homem,18,C.A. 15185,10.5,Desconhecido,Southampton
+1233,0,Terceira,"Lundstrom, Mr. Thure Edvin",Homem,32,350403,7.5792,Desconhecido,Southampton
+1234,0,Terceira,"Sage, Mr. John George",Homem,27,CA. 2343,69.55,Desconhecido,Southampton
+1235,1,Primeira,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",Mulher,58,PC 17755,512.3292,B51 B53 B55,Cherbourg
+1236,0,Terceira,"van Billiard, Master. James William",Homem,27,A/5. 851,14.5,Desconhecido,Southampton
+1237,1,Terceira,"Abelseth, Miss. Karen Marie",Mulher,16,348125,7.65,Desconhecido,Southampton
+1238,0,Segunda,"Botsford, Mr. William Hull",Homem,26,237670,13.0,Desconhecido,Southampton
+1239,1,Terceira,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",Mulher,38,2688,7.2292,Desconhecido,Cherbourg
+1240,0,Segunda,"Giles, Mr. Ralph",Homem,24,248726,13.5,Desconhecido,Southampton
+1241,1,Segunda,"Walcroft, Miss. Nellie",Mulher,31,F.C.C. 13528,21.0,Desconhecido,Southampton
+1242,1,Primeira,"Greenfield, Mrs. Leo David (Blanche Strouse)",Mulher,45,PC 17759,63.3583,D10 D12,Cherbourg
+1243,0,Segunda,"Stokes, Mr. Philip Joseph",Homem,25,F.C.C. 13540,10.5,Desconhecido,Southampton
+1244,0,Segunda,"Dibden, Mr. William",Homem,18,S.O.C. 14879,73.5,Desconhecido,Southampton
+1245,0,Segunda,"Herman, Mr. Samuel",Homem,49,220845,65.0,Desconhecido,Southampton
+1246,1,Terceira,"Dean, Miss. Elizabeth Gladys Millvina",Mulher,0,C.A. 2315,20.575,Desconhecido,Southampton
+1247,0,Primeira,"Julian, Mr. Henry Forbes",Homem,50,113044,26.0,E60,Southampton
+1248,1,Primeira,"Brown, Mrs. John Murray (Caroline Lane Lamson)",Mulher,59,11769,51.4792,C101,Southampton
+1249,0,Terceira,"Lockyer, Mr. Edward",Homem,27,1222,7.8792,Desconhecido,Southampton
+1250,0,Terceira,"O'Keefe, Mr. Patrick",Homem,27,368402,7.75,Desconhecido,Queenstown
+1251,1,Terceira,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",Mulher,30,349910,15.55,Desconhecido,Southampton
+1252,0,Terceira,"Sage, Master. William Henry",Homem,14,CA. 2343,69.55,Desconhecido,Southampton
+1253,1,Segunda,"Mallet, Mrs. Albert (Antoinette Magnin)",Mulher,24,S.C./PARIS 2079,37.0042,Desconhecido,Cherbourg
+1254,1,Segunda,"Ware, Mrs. John James (Florence Louise Long)",Mulher,31,CA 31352,21.0,Desconhecido,Southampton
+1255,0,Terceira,"Strilic, Mr. Ivan",Homem,27,315083,8.6625,Desconhecido,Southampton
+1256,1,Primeira,"Harder, Mrs. George Achilles (Dorothy Annan)",Mulher,25,11765,55.4417,E50,Cherbourg
+1257,1,Terceira,"Sage, Mrs. John (Annie Bullen)",Mulher,27,CA. 2343,69.55,Desconhecido,Southampton
+1258,0,Terceira,"Caram, Mr. Joseph",Homem,27,2689,14.4583,Desconhecido,Cherbourg
+1259,1,Terceira,"Riihivouri, Miss. Susanna Juhantytar Sanni",Mulher,22,3101295,39.6875,Desconhecido,Southampton
+1260,1,Primeira,"Gibson, Mrs. Leonard (Pauline C Boeson)",Mulher,45,112378,59.4,Desconhecido,Cherbourg
+1261,0,Segunda,"Pallas y Castello, Mr. Emilio",Homem,29,SC/PARIS 2147,13.8583,Desconhecido,Cherbourg
+1262,0,Segunda,"Giles, Mr. Edgar",Homem,21,28133,11.5,Desconhecido,Southampton
+1263,1,Primeira,"Wilson, Miss. Helen Alice",Mulher,31,16966,134.5,E39 E41,Cherbourg
+1264,0,Primeira,"Ismay, Mr. Joseph Bruce",Homem,49,112058,0.0,B52 B54 B56,Southampton
+1265,0,Segunda,"Harbeck, Mr. William H",Homem,44,248746,13.0,Desconhecido,Southampton
+1266,1,Primeira,"Dodge, Mrs. Washington (Ruth Vidaver)",Mulher,54,33638,81.8583,A34,Southampton
+1267,1,Primeira,"Bowen, Miss. Grace Scott",Mulher,45,PC 17608,262.375,Desconhecido,Cherbourg
+1268,1,Terceira,"Kink, Miss. Maria",Mulher,22,315152,8.6625,Desconhecido,Southampton
+1269,0,Segunda,"Cotterill, Mr. Henry Harry",Homem,21,29107,11.5,Desconhecido,Southampton
+1270,0,Primeira,"Hipkins, Mr. William Edward",Homem,55,680,50.0,C39,Southampton
+1271,0,Terceira,"Asplund, Master. Carl Edgar",Homem,5,347077,31.3875,Desconhecido,Southampton
+1272,0,Terceira,"O'Connor, Mr. Patrick",Homem,27,366713,7.75,Desconhecido,Queenstown
+1273,0,Terceira,"Foley, Mr. Joseph",Homem,26,330910,7.8792,Desconhecido,Queenstown
+1274,1,Terceira,"Risien, Mrs. Samuel (Emma)",Mulher,27,364498,14.5,Desconhecido,Southampton
+1275,1,Terceira,"McNamee, Mrs. Neal (Eileen O'Leary)",Mulher,19,376566,16.1,Desconhecido,Southampton
+1276,0,Segunda,"Wheeler, Mr. Edwin Frederick",Homem,27,SC/PARIS 2159,12.875,Desconhecido,Southampton
+1277,1,Segunda,"Herman, Miss. Kate",Mulher,24,220845,65.0,Desconhecido,Southampton
+1278,0,Terceira,"Aronsson, Mr. Ernst Axel Algot",Homem,24,349911,7.775,Desconhecido,Southampton
+1279,0,Segunda,"Ashby, Mr. John",Homem,57,244346,13.0,Desconhecido,Southampton
+1280,0,Terceira,"Canavan, Mr. Patrick",Homem,21,364858,7.75,Desconhecido,Queenstown
+1281,0,Terceira,"Palsson, Master. Paul Folke",Homem,6,349909,21.075,Desconhecido,Southampton
+1282,0,Primeira,"Payne, Mr. Vivian Ponsonby",Homem,23,12749,93.5,B24,Southampton
+1283,1,Primeira,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",Mulher,51,PC 17592,39.4,D28,Southampton
+1284,0,Terceira,"Abbott, Master. Eugene Joseph",Homem,13,C.A. 2673,20.25,Desconhecido,Southampton
+1285,0,Segunda,"Gilbert, Mr. William",Homem,47,C.A. 30769,10.5,Desconhecido,Southampton
+1286,0,Terceira,"Kink-Heilmann, Mr. Anton",Homem,29,315153,22.025,Desconhecido,Southampton
+1287,1,Primeira,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",Mulher,18,13695,60.0,C31,Southampton
+1288,0,Terceira,"Colbert, Mr. Patrick",Homem,24,371109,7.25,Desconhecido,Queenstown
+1289,1,Primeira,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",Mulher,48,13567,79.2,B41,Cherbourg
+1290,0,Terceira,"Larsson-Rondberg, Mr. Edvard A",Homem,22,347065,7.775,Desconhecido,Southampton
+1291,0,Terceira,"Conlon, Mr. Thomas Henry",Homem,31,21332,7.7333,Desconhecido,Queenstown
+1292,1,Primeira,"Bonnell, Miss. Caroline",Mulher,30,36928,164.8667,C7,Southampton
+1293,0,Segunda,"Gale, Mr. Harry",Homem,38,28664,21.0,Desconhecido,Southampton
+1294,1,Primeira,"Gibson, Miss. Dorothy Winifred",Mulher,22,112378,59.4,Desconhecido,Cherbourg
+1295,0,Primeira,"Carrau, Mr. Jose Pedro",Homem,17,113059,47.1,Desconhecido,Southampton
+1296,0,Primeira,"Frauenthal, Mr. Isaac Gerald",Homem,43,17765,27.7208,D40,Cherbourg
+1297,0,Segunda,"Nourney, Mr. Alfred (Baron von Drachstedt)",Homem,20,SC/PARIS 2166,13.8625,D38,Cherbourg
+1298,0,Segunda,"Ware, Mr. William Jeffery",Homem,23,28666,10.5,Desconhecido,Southampton
+1299,0,Primeira,"Widener, Mr. George Dunton",Homem,50,113503,211.5,C80,Cherbourg
+1300,1,Terceira,"Riordan, Miss. Johanna Hannah",Mulher,27,334915,7.7208,Desconhecido,Queenstown
+1301,1,Terceira,"Peacock, Miss. Treasteall",Mulher,3,SOTON/O.Q. 3101315,13.775,Desconhecido,Southampton
+1302,1,Terceira,"Naughton, Miss. Hannah",Mulher,27,365237,7.75,Desconhecido,Queenstown
+1303,1,Primeira,"Minahan, Mrs. William Edward (Lillian E Thorpe)",Mulher,37,19928,90.0,C78,Queenstown
+1304,1,Terceira,"Henriksson, Miss. Jenny Lovisa",Mulher,28,347086,7.775,Desconhecido,Southampton
+1305,0,Terceira,"Spector, Mr. Woolf",Homem,27,A.5. 3236,8.05,Desconhecido,Southampton
+1306,1,Primeira,"Oliva y Ocana, Dona. Fermina",Mulher,39,PC 17758,108.9,C105,Cherbourg
+1307,0,Terceira,"Saether, Mr. Simon Sivertsen",Homem,38,SOTON/O.Q. 3101262,7.25,Desconhecido,Southampton
+1308,0,Terceira,"Ware, Mr. Frederick",Homem,27,359309,8.05,Desconhecido,Southampton
+1309,0,Terceira,"Peter, Master. Michael J",Homem,27,2668,22.3583,Desconhecido,Cherbourg
