@@ -1,7 +1,7 @@
 import pandas as pd
 import sqlite3
 
-conn = sqlite3.connect('titanic.db')
+conn = sqlite3.connect("dados/titanic.db")
 
 df = pd.read_csv('dados/titanic_tratado.csv')
 
