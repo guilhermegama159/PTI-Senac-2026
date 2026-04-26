@@ -4,7 +4,7 @@ import sqlite3
 import os
 
 # Configuração do caminho do banco de dados Titanic
-diretorio_atual = os.path.dirname(os.path.abspath(__file__))
+diretorio_atual = os.getcwd()
 caminho_db = os.path.join(diretorio_atual, "dados", "titanic.db")
 
 # Conexão com o banco de dados
