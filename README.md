@@ -273,7 +273,7 @@ O dashboard apresentará:
 
 ```text
 Projeto-Titanic
-PTI-Senado-2026/
+PI-Senac-2026/
 ├── dados/
 │   └── titanic.csv
 ├── notebooks/
