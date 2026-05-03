@@ -365,6 +365,6 @@ with st.expander("🔍 Metodologia"):
     
 st.markdown("""
 <div style="text-align: center; opacity: 0.6; font-size: 0.85rem;">
-Dashboard desenvolvido para análise de dados do Titanic - Projeto PTI Senac • Python • Streamlit • 2026
+Dashboard desenvolvido para análise de dados do Titanic - Projeto PI Senac • Python • Streamlit • 2026
 </div>
 """, unsafe_allow_html=True)
