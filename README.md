@@ -2,7 +2,7 @@
 
 # 🚢 Projeto Integrador
 ### Análise Exploratória de Dados — Titanic
-**PI Senac 2026**
+***PI Senac 2026***
 
 </div>
 
