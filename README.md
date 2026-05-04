@@ -407,7 +407,7 @@ O projeto é composto por:
  
 ## 📌 Conclusão
 
-O projeto demonstrou que a análise exploratória de dados coletando padrões significativos a partir de conjuntos de dados reais. 
+> O projeto demonstrou que a análise exploratória de dados coletando padrões significativos a partir de conjuntos de dados reais. 
 
 A partir da aplicação de um pipeline estruturado foi possível identificar que fatores socioeconômicos e demográficos exerceram influência direta sobre as chances de sobrevivência dos passageiros do Titanic. A análise evidenciou que passageiros do sexo feminino, pertencentes à Primeira Classe e situados nas faixas etárias extremas apresentaram as maiores taxas de sobrevivência, corroborando padrões historicamente documentados sobre o naufrágio de 1912.
 
