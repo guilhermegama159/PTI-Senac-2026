@@ -411,5 +411,9 @@ A partir da aplicação de um pipeline estruturado foi possível identificar que
 
 O dashboard resolve a dificuldade de interpretação de dados históricos brutos, ocasionados pelas limitações de sua época na qual essas mesmas informações sobre os passageiros do Titanic estariam disponíveis apenas em formato tabular, exigindo conhecimento técnico para qualquer análise. Para qualquer usuário independentemente de seu nível de familiaridade com dados conseguiria explorar interativamente os padrões de sobrevivência, e ainda aplicar filtros por sexo, classe e faixa etária, assim obtendo respostas  imediatas, essa acessibilidade transforma dados técnicos em informação compreensível, cumprindo o papel central de qualquer solução de visualização de dados com aplicabilidade direta em contextos educacionais e profissionais.
 
- 
+
 ---
+
+<div align="center">
+  <sub>Desenvolvido pelo Grupo 02 - Senac PI Dataset Titanic 2026</sub>
+</div>
