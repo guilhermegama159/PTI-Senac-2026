@@ -246,7 +246,9 @@ O script conecta-se ao banco `titanic.db` via SQLite e executa consultas SQL par
 <details>
 <summary>📌 Conclusão da Análise </summary>
 
-**Todos os sobreviventes registrados são do sexo feminino**, resultando em 100% de sobrevivência para mulheres e 0% para homens um reflexo do protocolo histórico adotado no naufrágio. A **primeira classe** apresentou a maior taxa de sobrevivência entre as classes. A **faixa etária acima de 60 anos** registrou o maior percentual proporcional de sobrevivência, embora represente o menor grupo em volume absoluto.
+**Todos os sobreviventes registrados são do sexo feminino**, resultando em 100% de sobrevivência para mulheres e 0% para homens um reflexo do protocolo histórico adotado no naufrágio. A **primeira classe** apresentou a maior taxa de sobrevivência entre as classes.
+
+A **faixa etária acima de 60 anos** registrou o maior percentual proporcional de sobrevivência, embora represente o menor grupo em volume absoluto.
 
 </details>
 
