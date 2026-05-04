@@ -260,7 +260,7 @@ A interface permite filtragem dinâmica por sexo, classe e faixa etária, atuali
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://titanicdashboardsenac.streamlit.app/)
 
 <div align="center">
-  <img src="imagens/dashboard.gif" alt="Preview do Dashboard Titanic" width="800"/>
+  <img src="imagens/Dashboard.gif" alt="Preview do Dashboard Titanic" width="800"/>
 </div>
 
 ### Funcionalidades disponíveis
