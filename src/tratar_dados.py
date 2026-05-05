@@ -19,11 +19,14 @@ Padronização:
 
 
 import pandas as pd
+import os
 
 
 DEBUG = False
 
-df: pd.DataFrame = pd.read_csv(r'PTI-Senac-2026\dados\titanic.csv') #df == dataframe
+# Construir caminho dinâmico para o arquivo de dados
+caminho_arquivo = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'dados', 'titanic.csv')
+df: pd.DataFrame = pd.read_csv(caminho_arquivo) #df == dataframe
 df_tratado: pd.DataFrame = df.copy() #Cria uma cópia do df
 
 
@@ -51,9 +54,9 @@ classe_passageiro: dict = {1: 'Primeira',
                      3: 'Terceira'}
 
 #Preenchimento de valores nulos
-df_tratado['Idade'] = df_tratado['Idade'].fillna(idade_mediana, inplace=True)
-df_tratado['Tarifa'] = df_tratado['Tarifa'].fillna(tarifa_mediana, inplace=True)
-df_tratado['Cabine'] = df_tratado['Cabine'].fillna('Desconhecido', inplace=True)
+df_tratado['Idade'] = df_tratado['Idade'].fillna(idade_mediana)
+df_tratado['Tarifa'] = df_tratado['Tarifa'].fillna(tarifa_mediana)
+df_tratado['Cabine'] = df_tratado['Cabine'].fillna('Desconhecido')
 
 #Transformação de dados
 df_tratado['Nome'] = df_tratado['Nome'].str.replace(r'["]+', '', regex=True)
@@ -71,4 +74,5 @@ df_tratado['Sexo'] = df_tratado['Sexo'].replace(sexo)
 
 #Apenas salva o novo arquivo se DEBUG = False
 assert DEBUG == False, 'Script rodando em modo de debug.\nArquivo não será salvo'
-df_tratado.to_csv(r'PTI-Senac-2026\dados\titanic_tratado.csv', index=False)
+caminho_saida = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'dados', 'titanic_tratado.csv')
+df_tratado.to_csv(caminho_saida, index=False)
