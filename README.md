@@ -308,7 +308,7 @@ python src/graficos.py        # Gera os gráficos na pasta /imagens
 ### Passo 4 — Inicie o dashboard
 
 ```bash
-streamlit run dashboard/app.py
+python -m streamlit run dashboard/app.py
 ```
 
 O dashboard abrirá automaticamente no navegador em `http://localhost:8501`.
