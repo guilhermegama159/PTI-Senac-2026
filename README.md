@@ -260,7 +260,7 @@ O dashboard será desenvolvido com **Streamlit** ou biblioteca equivalente, apre
 A interface permite filtragem dinâmica por sexo, classe e faixa etária, atualizando em tempo real os indicadores e visualizações.
 
 **Fonte:** [Streamlit App](https://titanicdashboardsenac.streamlit.app/)
-> Acesso para a Dashboard funcional desenvolvida no Streamlit.
+> Acesso para a Dashboard funcional do projeto desenvolvido no Streamlit.
 
 <div align="center">
   <img src="imagens/Dashboard.gif" alt="Preview do Dashboard Titanic" width="800"/>
