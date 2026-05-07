@@ -259,7 +259,7 @@ A **faixa etária acima de 60 anos** registrou o maior percentual proporcional d
 O dashboard será desenvolvido com **Streamlit** ou biblioteca equivalente, apresentando:
 A interface permite filtragem dinâmica por sexo, classe e faixa etária, atualizando em tempo real os indicadores e visualizações.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://titanicdashboardsenac.streamlit.app/)
+**Fonte** [![Streamlit App](https://titanicdashboardsenac.streamlit.app/)
 
 <div align="center">
   <img src="imagens/Dashboard.gif" alt="Preview do Dashboard Titanic" width="800"/>
