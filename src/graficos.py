@@ -7,7 +7,7 @@ plt.style.use("ggplot")
 os.makedirs("imagens", exist_ok=True)
 
 diretorio_atual = os.path.dirname(os.path.abspath(__file__))
-caminho_csv = os.path.join(diretorio_atual, "dados", "titanic_tratado.csv")
+caminho_csv = os.path.join(diretorio_atual, "..", "dados", "titanic_tratado.csv")
 
 df = pd.read_csv(caminho_csv)
 
@@ -94,4 +94,3 @@ plt.close()
 
 print("graficos gerados")
 
-# Arquivo responsável por gerar os gráficos do projeto Titanic
